@@ -1,0 +1,13 @@
+C:\Users\student01\Documents\Visual Studio 2015\Projects\AF Applet-Edivaldo2\AF Applet-Edivaldo2\bin\Debug\AF Applet-Edivaldo2.exe.config
+C:\Users\student01\Documents\Visual Studio 2015\Projects\AF Applet-Edivaldo2\AF Applet-Edivaldo2\bin\Debug\AF Applet-Edivaldo2.exe
+C:\Users\student01\Documents\Visual Studio 2015\Projects\AF Applet-Edivaldo2\AF Applet-Edivaldo2\bin\Debug\AF Applet-Edivaldo2.pdb
+C:\Users\student01\Documents\Visual Studio 2015\Projects\AF Applet-Edivaldo2\AF Applet-Edivaldo2\bin\Debug\OSIsoft.AF.UI.dll
+C:\Users\student01\Documents\Visual Studio 2015\Projects\AF Applet-Edivaldo2\AF Applet-Edivaldo2\bin\Debug\OSIsoft.AFSDK.dll
+C:\Users\student01\Documents\Visual Studio 2015\Projects\AF Applet-Edivaldo2\AF Applet-Edivaldo2\bin\Debug\OSIsoft.AF.UI.xml
+C:\Users\student01\Documents\Visual Studio 2015\Projects\AF Applet-Edivaldo2\AF Applet-Edivaldo2\bin\Debug\OSIsoft.AFSDK.xml
+C:\Users\student01\Documents\Visual Studio 2015\Projects\AF Applet-Edivaldo2\AF Applet-Edivaldo2\obj\Debug\AF_Applet_Edivaldo2.Form1.resources
+C:\Users\student01\Documents\Visual Studio 2015\Projects\AF Applet-Edivaldo2\AF Applet-Edivaldo2\obj\Debug\AF_Applet_Edivaldo2.Properties.Resources.resources
+C:\Users\student01\Documents\Visual Studio 2015\Projects\AF Applet-Edivaldo2\AF Applet-Edivaldo2\obj\Debug\AF Applet-Edivaldo2.csproj.GenerateResource.Cache
+C:\Users\student01\Documents\Visual Studio 2015\Projects\AF Applet-Edivaldo2\AF Applet-Edivaldo2\obj\Debug\AF Applet-Edivaldo2.exe
+C:\Users\student01\Documents\Visual Studio 2015\Projects\AF Applet-Edivaldo2\AF Applet-Edivaldo2\obj\Debug\AF Applet-Edivaldo2.pdb
+C:\Users\student01\Documents\Visual Studio 2015\Projects\AF Applet-Edivaldo2\AF Applet-Edivaldo2\obj\Debug\AF Applet-Edivaldo2.csprojResolveAssemblyReference.cache
